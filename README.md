@@ -1,5 +1,5 @@
 TinDog Starting Files
-Here are some screenshot of my projects.
+Here are some screenshot of my project.
 ![image](https://user-images.githubusercontent.com/71221908/127234334-61f643c7-cc8e-482e-b01f-8086bd716565.png)
 ![image](https://user-images.githubusercontent.com/71221908/127234367-a8f38dad-cefa-4211-9185-f9da5e1875cd.png)
 ![image](https://user-images.githubusercontent.com/71221908/127234603-88a5f72b-2ab3-47d3-bda6-a899f7bfa4de.png)
